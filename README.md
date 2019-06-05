@@ -1,2 +1,3 @@
 # what-is...
 idek
+I do recommend cloning this repo tho
